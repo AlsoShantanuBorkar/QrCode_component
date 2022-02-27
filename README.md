@@ -26,7 +26,7 @@ After starting to learn HTML and CSS one week has passed and i have finally crea
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-challenge-sb.netlify.app/)
+- Live Site URL: [Live Site](https://qr-code-challenge-sb.netlify.app/)
 
 ## My process
 
