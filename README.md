@@ -1,1 +1,0 @@
-# QrCode_component
