@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 After starting to learn HTML and CSS one week has passed and i have finally created my first website. 
 
@@ -62,4 +60,3 @@ Creating this website helped me understand:
 
   I would like to thank my friends for introducing me to WebDevelopment 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
